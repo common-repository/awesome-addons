@@ -1,0 +1,518 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Awesome Addons\n"
+"POT-Creation-Date: 2019-12-25 22:21+0600\n"
+"PO-Revision-Date: 2019-12-25 22:21+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: awesome-addones.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. translators: 1: Plugin name 2: Elementor
+#: awesome-addones.php:134
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: awesome-addones.php:135 awesome-addones.php:158 awesome-addones.php:182
+#: plugin.php:53
+msgid "Awesome Addons"
+msgstr ""
+
+#: awesome-addones.php:136 awesome-addones.php:159
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: awesome-addones.php:157 awesome-addones.php:181
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: awesome-addones.php:183
+msgid "PHP"
+msgstr ""
+
+#: widgets/widget-accordion.php:17 widgets/widget-accordion.php:33
+msgid "Accordion"
+msgstr ""
+
+#: widgets/widget-accordion.php:41
+msgid "Accordion Style"
+msgstr ""
+
+#: widgets/widget-accordion.php:45 widgets/widget-blog.php:43
+#: widgets/widget-button.php:45 widgets/widget-list.php:45
+msgid "Style 1"
+msgstr ""
+
+#: widgets/widget-accordion.php:46 widgets/widget-blog.php:44
+#: widgets/widget-button.php:46 widgets/widget-list.php:46
+msgid "Style 2"
+msgstr ""
+
+#: widgets/widget-accordion.php:47 widgets/widget-blog.php:45
+#: widgets/widget-list.php:47
+msgid "Style 3"
+msgstr ""
+
+#: widgets/widget-accordion.php:48 widgets/widget-blog.php:46
+#: widgets/widget-button.php:47 widgets/widget-list.php:48
+#: widgets/widget-pricing.php:47 widgets/widget-pricing.php:129
+msgid "None"
+msgstr ""
+
+#: widgets/widget-accordion.php:56
+msgid "Collapsed Icon"
+msgstr ""
+
+#: widgets/widget-accordion.php:68
+msgid "Expanded Icon"
+msgstr ""
+
+#: widgets/widget-accordion.php:81 widgets/widget-counter.php:41
+#: widgets/widget-iconbox.php:75
+msgid "Title"
+msgstr ""
+
+#: widgets/widget-accordion.php:88 widgets/widget-iconbox.php:84
+msgid "Text"
+msgstr ""
+
+#: widgets/widget-accordion.php:97
+msgid "Accordion list"
+msgstr ""
+
+#: widgets/widget-accordion.php:102
+msgid "How can i get help by awesome-addones?"
+msgstr ""
+
+#: widgets/widget-accordion.php:103 widgets/widget-accordion.php:107
+#: widgets/widget-accordion.php:111
+msgid ""
+"Lorem ipsum dolor sit amet, vix an natum labitur eleifd, mel am laoreet "
+"menandri. Ei justo complectitur duo. Ei mundi solet utos soletu possit quo. "
+"Sea cu justo laudem."
+msgstr ""
+
+#: widgets/widget-accordion.php:106
+msgid "What about loan programs & after bank loan advantage?"
+msgstr ""
+
+#: widgets/widget-accordion.php:110
+msgid "How can i opent new account?"
+msgstr ""
+
+#: widgets/widget-blog.php:16
+msgid "Latest Blog"
+msgstr ""
+
+#: widgets/widget-blog.php:31
+msgid "Post"
+msgstr ""
+
+#: widgets/widget-blog.php:39
+msgid "Style"
+msgstr ""
+
+#: widgets/widget-blog.php:54
+msgid "Posts per page"
+msgstr ""
+
+#: widgets/widget-blog.php:66
+msgid "Order"
+msgstr ""
+
+#: widgets/widget-blog.php:70
+msgid "Ascending"
+msgstr ""
+
+#: widgets/widget-blog.php:71
+msgid "Descending"
+msgstr ""
+
+#: widgets/widget-button.php:17 widgets/widget-button.php:33
+msgid "Button"
+msgstr ""
+
+#: widgets/widget-button.php:41
+msgid "Button Style"
+msgstr ""
+
+#: widgets/widget-button.php:54
+msgid "Button Text"
+msgstr ""
+
+#: widgets/widget-button.php:56
+msgid "Raed More"
+msgstr ""
+
+#: widgets/widget-button.php:63 widgets/widget-counter.php:59
+#: widgets/widget-iconbox.php:53
+msgid "Icon"
+msgstr ""
+
+#: widgets/widget-button.php:65 widgets/widget-button.php:109
+#: widgets/widget-button.php:158
+msgid "Yes"
+msgstr ""
+
+#: widgets/widget-button.php:66 widgets/widget-button.php:110
+#: widgets/widget-button.php:159
+msgid "No"
+msgstr ""
+
+#: widgets/widget-button.php:76
+msgid "Choose Icon"
+msgstr ""
+
+#: widgets/widget-button.php:86
+msgid "Icon Text"
+msgstr ""
+
+#: widgets/widget-button.php:88 widgets/widget-button.php:145
+msgid "Show"
+msgstr ""
+
+#: widgets/widget-button.php:89 widgets/widget-button.php:146
+msgid "Hide"
+msgstr ""
+
+#: widgets/widget-button.php:98
+msgid "Button URL"
+msgstr ""
+
+#: widgets/widget-button.php:107
+msgid "Popup Video"
+msgstr ""
+
+#: widgets/widget-button.php:119
+msgid "Alignment"
+msgstr ""
+
+#: widgets/widget-button.php:123
+msgid "Left"
+msgstr ""
+
+#: widgets/widget-button.php:127
+msgid "Center"
+msgstr ""
+
+#: widgets/widget-button.php:131
+msgid "Right"
+msgstr ""
+
+#: widgets/widget-button.php:143
+msgid "Drop Shadow"
+msgstr ""
+
+#: widgets/widget-button.php:156
+msgid "Bordered"
+msgstr ""
+
+#: widgets/widget-button.php:169
+msgid "Button Radius"
+msgstr ""
+
+#: widgets/widget-counter.php:17 widgets/widget-counter.php:33
+msgid "Counter"
+msgstr ""
+
+#: widgets/widget-counter.php:43
+msgid "Download"
+msgstr ""
+
+#: widgets/widget-counter.php:50
+msgid "Counter Value"
+msgstr ""
+
+#: widgets/widget-counter.php:69
+msgid "Background Color"
+msgstr ""
+
+#: widgets/widget-iconbox.php:17
+msgid "Iconbox"
+msgstr ""
+
+#: widgets/widget-iconbox.php:32
+msgid "Icon Box"
+msgstr ""
+
+#: widgets/widget-iconbox.php:40
+msgid "Iconbox Style"
+msgstr ""
+
+#: widgets/widget-iconbox.php:44
+msgid "Font Icon"
+msgstr ""
+
+#: widgets/widget-iconbox.php:45
+msgid "Image Icon"
+msgstr ""
+
+#: widgets/widget-iconbox.php:63 widgets/widget-team.php:41
+msgid "Choose photo"
+msgstr ""
+
+#: widgets/widget-iconbox.php:77
+msgid "Lorem Ipsum"
+msgstr ""
+
+#: widgets/widget-iconbox.php:86
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: widgets/widget-list.php:17 widgets/widget-list.php:33
+#: widgets/widget-list.php:114
+msgid "List"
+msgstr ""
+
+#: widgets/widget-list.php:41
+msgid "List Style"
+msgstr ""
+
+#: widgets/widget-list.php:55
+msgid "List Icon"
+msgstr ""
+
+#: widgets/widget-list.php:66
+msgid "Icon Bckground Color"
+msgstr ""
+
+#: widgets/widget-list.php:75
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/widget-list.php:84
+msgid "Linkable List"
+msgstr ""
+
+#: widgets/widget-list.php:86
+msgid "Enable"
+msgstr ""
+
+#: widgets/widget-list.php:87
+msgid "Desable"
+msgstr ""
+
+#: widgets/widget-list.php:98
+msgid "List Text"
+msgstr ""
+
+#: widgets/widget-list.php:106
+msgid "List URL"
+msgstr ""
+
+#: widgets/widget-list.php:143
+msgid "Line Height"
+msgstr ""
+
+#: widgets/widget-pricing.php:17 widgets/widget-pricing.php:33
+msgid "Pricing"
+msgstr ""
+
+#: widgets/widget-pricing.php:41
+msgid "Icon Box Style"
+msgstr ""
+
+#: widgets/widget-pricing.php:45
+msgid "Card"
+msgstr ""
+
+#: widgets/widget-pricing.php:46
+msgid "Tabs"
+msgstr ""
+
+#: widgets/widget-pricing.php:55
+msgid "title"
+msgstr ""
+
+#: widgets/widget-pricing.php:65
+msgid "icon"
+msgstr ""
+
+#: widgets/widget-pricing.php:76
+msgid "Price"
+msgstr ""
+
+#: widgets/widget-pricing.php:86
+msgid "Currency"
+msgstr ""
+
+#: widgets/widget-pricing.php:121
+msgid "Package"
+msgstr ""
+
+#: widgets/widget-pricing.php:125
+msgid "Daily"
+msgstr ""
+
+#: widgets/widget-pricing.php:126
+msgid "Weekly"
+msgstr ""
+
+#: widgets/widget-pricing.php:127
+msgid "Monthly"
+msgstr ""
+
+#: widgets/widget-pricing.php:128
+msgid "Yealry"
+msgstr ""
+
+#: widgets/widget-pricing.php:139
+msgid "Feature"
+msgstr ""
+
+#: widgets/widget-pricing.php:141 widgets/widget-pricing.php:165
+msgid "10 Free Domain Names"
+msgstr ""
+
+#: widgets/widget-pricing.php:148
+msgid "Feature List"
+msgstr ""
+
+#: widgets/widget-pricing.php:153
+msgid "5GB Storage Space"
+msgstr ""
+
+#: widgets/widget-pricing.php:156
+msgid "20GB Monthly Bandwidth"
+msgstr ""
+
+#: widgets/widget-pricing.php:159
+msgid "My SQL Databases"
+msgstr ""
+
+#: widgets/widget-pricing.php:162
+msgid "100 Email Account"
+msgstr ""
+
+#: widgets/widget-pricing.php:176
+msgid "button text"
+msgstr ""
+
+#: widgets/widget-pricing.php:186
+msgid "button URL"
+msgstr ""
+
+#: widgets/widget-pricing.php:188
+msgid "https://example.com"
+msgstr ""
+
+#: widgets/widget-pricing.php:202
+msgid "Recommended"
+msgstr ""
+
+#: widgets/widget-pricing.php:204
+msgid "On"
+msgstr ""
+
+#: widgets/widget-pricing.php:205
+msgid "Off"
+msgstr ""
+
+#: widgets/widget-team.php:17
+msgid "Team"
+msgstr ""
+
+#: widgets/widget-team.php:33
+msgid "team"
+msgstr ""
+
+#: widgets/widget-team.php:52 widgets/widget-testimonials.php:54
+msgid "Name"
+msgstr ""
+
+#: widgets/widget-team.php:54 widgets/widget-testimonials.php:56
+msgid "John Doe"
+msgstr ""
+
+#: widgets/widget-team.php:60 widgets/widget-testimonials.php:63
+msgid "Designation"
+msgstr ""
+
+#: widgets/widget-team.php:62
+msgid "App Developer"
+msgstr ""
+
+#: widgets/widget-team.php:70
+msgid "Social Icon"
+msgstr ""
+
+#: widgets/widget-team.php:78
+msgid "Socia URL"
+msgstr ""
+
+#: widgets/widget-team.php:87
+msgid "social profile"
+msgstr ""
+
+#: widgets/widget-testimonials.php:17 widgets/widget-testimonials.php:33
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/widget-testimonials.php:43 widgets/widget-video.php:41
+msgid "Choose Photo"
+msgstr ""
+
+#: widgets/widget-testimonials.php:65
+msgid "CEO of Uber"
+msgstr ""
+
+#: widgets/widget-testimonials.php:73
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/widget-testimonials.php:75
+msgid ""
+"The drivers are always super sweet and smiling. Plus I get bonuses each time "
+"I use this company’s services which is so cool…"
+msgstr ""
+
+#: widgets/widget-testimonials.php:82
+msgid "Testimonial List"
+msgstr ""
+
+#: widgets/widget-video.php:17
+msgid "Video"
+msgstr ""
+
+#: widgets/widget-video.php:33
+msgid "Video Image"
+msgstr ""
+
+#: widgets/widget-video.php:52
+msgid "Overlay"
+msgstr ""
+
+#: widgets/widget-video.php:61
+msgid "Play Button URL"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/awesome-addones/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeBing"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themebing.com/"
+msgstr ""

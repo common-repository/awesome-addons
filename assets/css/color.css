@@ -1,0 +1,50 @@
+.awesome-addones-popup-video,
+.awesome-addones-btn.bordered:hover,
+.awesome-addones-accordion.style-3 .awesome-addones-accordion-item.active h5,
+.awesome-addones-pricing-table .awesome-addones-buy-button,
+.awesome-addones-pricing-table.recommended:after,
+.awesome-addones-play-btn-icon,
+.awesome-addones-team ul li a:hover,
+.awesome-addones-call-to-action a,
+.awesome-addones-item-Iconbox.style_1 .awesome-addones-item-iconbox-icon:before,
+.blog-item-meta-1,
+.booking-form input[type=submit],
+.service-list:hover .service-list-icon,
+.pricing-table.selected:after,
+.pricing-table .card .price,
+.pricing-table a,
+.accordion-item h6:hover,
+.accordion-item.active h6,
+.team ul li a:hover,
+.awesome-addones-btn,
+.awesome-addones-tabs .nav-link.active i,
+.awesome-addones-tabs .nav-link.active span,
+.call-to-action ul li a,
+.popup-icon,
+.banner ul li:first-child a,
+.banner ul li:last-child a:hover {
+    background: #2775ff;
+}
+
+.star-rating i,
+.awesome-addones-btn.bordered,
+.awesome-addones-accordion-item.active h5,
+.awesome-addones-accordion-item.active h5 span,
+.awesome-addones-heading-title i,
+.awesome-addones-heading-title span,
+.tariff-item-content span,
+.service-list-icon i,
+.item-service .item-service-icon,
+a:hover,
+.awesome-addones-tabs .nav-link.active,
+.section-title h1 span {
+    color: #2775ff;
+}
+
+.service-list-icon,
+.awesome-addones-btn.bordered,
+.awesome-addones-item-Iconbox.style_1 .awesome-addones-item-iconbox-icon,
+.item-service,
+.item-service .item-service-icon {
+    border-color: #2775ff;
+}
